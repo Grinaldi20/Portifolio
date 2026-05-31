@@ -848,6 +848,7 @@ body {
 
   /* Hero layout stacks */
   .hero-inner {
+    flex-direction: column;
     text-align: center;
     gap: 40px;
     padding-top: 24px;
